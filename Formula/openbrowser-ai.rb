@@ -1,8 +1,8 @@
 class OpenbrowserAi < Formula
   desc "AI-powered browser automation using CodeAgent and CDP"
   homepage "https://docs.openbrowser.me"
-  url "https://files.pythonhosted.org/packages/75/91/981b372b4a876617ede4487a183451d97619d0afa35fa411878f30587bcb/openbrowser_ai-0.1.59.tar.gz"
-  sha256 "59bea149da77b98bf3dce8c9587ffc4245ebe7bf37d87c18652b080decb8814a"
+  url "https://files.pythonhosted.org/packages/93/90/32433ff1a781bf9d3239bfb48baea16469835bbcc0be392d124af3a6ff01/openbrowser_ai-0.1.60.tar.gz"
+  sha256 "5aa37454983559476cc973c433aa35b726e026590fed8249eceaf773ef40fc82"
   license "MIT"
 
   depends_on "python@3.12"
